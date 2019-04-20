@@ -6,8 +6,8 @@ import SmurfForm from './components/SmurfForm';
 import Smurfs from './components/Smurfs';
 import SmurfNavi from './components/SmurfNavi';
 import { Route } from 'react-router-dom';
-import { timingSafeEqual } from 'crypto';
-import { throws } from 'assert';
+// import { timingSafeEqual } from 'crypto';
+// import { throws } from 'assert';
 
 class App extends Component {
   constructor(props) {
