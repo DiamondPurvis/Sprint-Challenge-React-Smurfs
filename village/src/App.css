@@ -26,7 +26,9 @@
   margin-left: 60px;
   margin-right: 60px;
 }
-
+.Smurfs h1{
+  color: white;
+}
 .link {
 	-moz-box-shadow: 0px 10px 14px -7px #408c99;
 	-webkit-box-shadow: 0px 10px 14px -7px #408c99;
